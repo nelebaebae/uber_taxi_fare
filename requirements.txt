@@ -1,10 +1,19 @@
-seaborn==0.12.2
-matplotlib==3.7.1
-plotly==5.14.1
-pandas==2.0.2
-numpy>=2.1.0
-streamlit==1.12.0
-joblib==1.2.0
-scikit-learn==1.2.2
-pip==23.1.2
-altair==4
+# Visualisasi & Dashboard
+seaborn>=0.13.2
+matplotlib>=3.9.0
+plotly>=5.22.0
+altair>=5.4.0
+
+# Data & Analisis
+pandas>=2.2.2
+numpy>=2.1.1
+
+# Machine Learning
+scikit-learn>=1.6.0
+joblib>=1.4.2
+
+# Web App
+streamlit>=1.38.0
+
+# Tools
+pip>=25.1.1
